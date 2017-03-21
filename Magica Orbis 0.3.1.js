@@ -9,6 +9,8 @@ Magica Orbis(마법 세계)라는 세계를 추가하는 스크립트입니다.
 Thunder Arrow, Soil Assassin, Calamum de Obscurum, Dark Tornado, Liber de Obscurum, Skill Drottinn, Liber de Lumen, Light Mage가 Magica Orbis라는 세계를 창조했다. Magica Orbis에는 인간계의 빛을 관리하는 LCB(Light Center Bureau, 빛 중앙 관리국)의 본부가 위치한다. 인간계의 어둠을 관리하는 DUL(Darkness User League, 어둠 사용자 연맹)의 본부가 위치하는 제 5능력의 중심지인 SSW에서 S축 방향으로 공간축을 이탈할 시, Magica Orbis로 들어갈 수 있다.
 Magica Orbis에는 주로 마법사나 마도사들이 거주하며, 일부 스킬러들도 그 곳에서 지낸다. 하이어 월드로의 포탈이 존재한다.
 */
+
+
 ModPE.overrideTexture("images/mob/fireWizard.png", "https://raw.githubusercontent.com/DarkTornado/MagicaOrbis/master/fireWizard.png");
 ModPE.overrideTexture("images/mob/waterWizard.png", "https://raw.githubusercontent.com/DarkTornado/MagicaOrbis/master/waterWizard.png");
 ModPE.overrideTexture("images/mob/treeWizard.png", "https://raw.githubusercontent.com/DarkTornado/MagicaOrbis/master/treeWizard.png");
